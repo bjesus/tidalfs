@@ -2,6 +2,7 @@
 
 TidalFS is a FUSE based file system that mounts the Tidal music streaming service as a local directory. All songs appear as local music files, and you can use any music player application to play them.
 
+[video.webm](https://user-images.githubusercontent.com/55081/211162559-0ff9b0bc-8657-413c-9b7d-4387a70784d1.webm)
 ### Features
 
 - [x] Search by artist, album, or track title
